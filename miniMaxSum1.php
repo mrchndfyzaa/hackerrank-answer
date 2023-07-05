@@ -52,7 +52,7 @@ Input ->
 [1, 3, 5, 7, 9]
 Total length -> 5 (always be five)
 Total min. plus numbers -> 1 + 3 + 5 + 7 = 16
-Totla max. plus numbers -> 3 + 5 + 7 + 9 = 24
+Total max. plus numbers -> 3 + 5 + 7 + 9 = 24
 
 Output ->
 18 24
